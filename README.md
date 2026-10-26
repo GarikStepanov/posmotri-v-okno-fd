@@ -10,4 +10,4 @@
 ![](./Design.png)
 
 ## [Ссылка на макет &rarr;](https://www.figma.com/design/ApJjZAA3pBv2tCZM9E2ul2/2-спринт.-Посмотри-в-окно?node-id=0-1&p=f&clckid=4864540c)
-## [Ссылка на сайт проектной работы &rarr;]()
+## [Ссылка на сайт проектной работы &rarr;](https://github.com/GarikStepanov/posmotri-v-okno-fd.git)
